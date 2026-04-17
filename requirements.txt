@@ -1,0 +1,17 @@
+# ─── Akura (අකුර) — Sinhala Voice Typer ───────────────────────────────────────
+# Install:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────────────────
+
+# UI Framework
+customtkinter>=5.2.2
+Pillow
+
+# Speech Recognition & Audio Capture
+SpeechRecognition
+sounddevice
+numpy
+
+# Input / Output utilities
+pynput
+pyperclip
+requests
